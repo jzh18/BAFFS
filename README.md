@@ -3,6 +3,9 @@
 ![example workflow](https://github.com/jzh18/BAFFS/actions/workflows/main.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+NOTE: This repository is moved to https://github.com/negativa-ai/BLAFS.
+
+
 Shrink you container size up to 95%.
 
 ## Introduction
